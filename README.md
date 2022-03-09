@@ -6,4 +6,18 @@ Utilizando display Flex para posicionar los elementos en el header y añadiendo 
 
 <img src="https://i.postimg.cc/fbcPnbqR/Header.jpg"/> 
 
+  Utilizando Display Grid para posicionar los elementos en el Main.
+                                    
+<img src="https://i.postimg.cc/FzzmHSwZ/Main.jpg"/>
+
+Y por ultimo un display Grid para colocar las imagenes y elementos dentro footer de la pagina.
+
+<img src="https://i.postimg.cc/90YxKgLg/Galeria-Footer.jpg"/>
+
+
+
+
+
+
+
 

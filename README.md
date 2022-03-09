@@ -1,7 +1,9 @@
 # Arquitectura-Bosques
 
-##Pagina Web estática estructurada con html y con estilos empleados con Css.
+Pequeño Website sobre venta de Inmuebles en el boque. 
 
-img
+Utilizando display Flex para posicionar los elementos en el header y añadiendo soporte a telefnos desde el mismo website. 
 
-https://i.postimg.cc/fbcPnbqR/Header.jpg
+<img src="https://i.postimg.cc/fbcPnbqR/Header.jpg"/> 
+
+
